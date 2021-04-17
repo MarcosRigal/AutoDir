@@ -12,19 +12,23 @@ To do this I have followed the following steps:
 4. Open a terminal in the same directory and run:
       
          chmod u+x AutoDir.sh
+
+5. Also install:
       
-5. Now run: 
+         sudo apt-get install tree
+
+6. Now run: 
 
          nano ~/.bashrc
 
-6. And at the end of the file add the following line with CTRL + SHIFT + V:
+7. And at the end of the file add the following line with CTRL + SHIFT + V:
 
          alias AutoDir='cp /home/marcos/Documents/AutoDir.sh . && ./AutoDir.sh && rm AutoDir.sh'
 
-7. Change your path to the path where the original file is located.
-8. Press CTRL + X.
-9. Press Y and enter to save the file.
-10. And now run:
+8. Change your path to the path where the original file is located.
+9. Press CTRL + X.
+10. Press Y and enter to save the file.
+11. And now run:
 
          source ~/.bashrc
 

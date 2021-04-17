@@ -14,3 +14,5 @@ do
     fi
     cd ..
 done
+#ls -R | grep ":$" | perl -pe 's/:$//;s/[^-][^\/]*\//    /g;s/^    (\S)/└── \1/;s/(^    |    (?= ))/│   /g;s/    (\S)/└── \1/'
+#falta que imprima los ficheros

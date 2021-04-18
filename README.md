@@ -1,4 +1,4 @@
-![AutoDir](https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/03/como-usar-comando-find-linux-1280x720.png)
+![AutoDir](https://www.linuxtrainingacademy.com/wp-content/uploads/2014/03/linux-folders.jpg)
 
 # How to use it
 I did this little script to automatically create folders for a python course I was doing. It asks for the number of folders and for the extension of the files in the folder then it creates this num of folders each one with a file of this tipe in.

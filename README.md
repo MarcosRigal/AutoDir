@@ -1,4 +1,6 @@
-![AutoDir](https://www.linuxtrainingacademy.com/wp-content/uploads/2014/03/linux-folders.jpg)
+<div align="center">
+    <img width="100%" src="https://www.linuxtrainingacademy.com/wp-content/uploads/2014/03/linux-folders.jpg" alt="AutoDir">
+</div>
 
 # How to use it
 I did this little script to automatically create folders for a python course I was doing. It asks for the number of folders and for the extension of the files in the folder then it creates this num of folders each one with a file of this tipe in.
